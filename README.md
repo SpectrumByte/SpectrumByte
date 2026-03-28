@@ -16,7 +16,7 @@
 
 ### 💻 Tech Stack & Tools Utama
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
   <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Native" />
   <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
