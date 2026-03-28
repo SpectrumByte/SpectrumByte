@@ -16,19 +16,17 @@
 
 ---
 
+<h3 align="center">💻 Tech Stack & Tools Utama</h3>
+
 <p align="center">
-
-### 💻 Tech Stack & Tools Utama
-
-  <img src="src/Node.png" alt="NodeJS" />  
-  <img src="src/Next.png" alt="NextJS" />
-  <img src="src/React.png" alt="React-Native" />
-  <img src="src/laravel.png" alt="Laravel" />
-  <img src="src/Git.png" alt="Git" />
-  <img src="src/Figma.png" alt="Figma" />
-  <img src="src/AndroidStudio.png" alt="Android Studio" />
+  <img src="src/Node.png" alt="NodeJS" height="50" style="margin: 10px;" />
+  <img src="src/Next.png" alt="NextJS" height="50" style="margin: 10px;" />
+  <img src="src/React.png" alt="React-Native" height="50" style="margin: 10px;" />
+  <img src="src/laravel.png" alt="Laravel" height="50" style="margin: 10px;" />
+  <img src="src/Git.png" alt="Git" height="50" style="margin: 10px;" />
+  <img src="src/Figma.png" alt="Figma" height="50" style="margin: 10px;" />
+  <img src="src/AndroidStudio.png" alt="Android Studio" height="50" style="margin: 10px;" />
 </p>
-
 ---
 
 ### 🔭 Apa yang Sedang Kami Kerjakan?
