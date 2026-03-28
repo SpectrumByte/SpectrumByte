@@ -20,14 +20,13 @@
 
 ### 💻 Tech Stack & Tools Utama
 
-  <img src="src/Node" alt="NodeJS" />  
-  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Native" />
-  <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="src/Node.png" alt="NodeJS" />  
+  <img src="src/Next.png" alt="NextJS" />
+  <img src="src/React.png" alt="React-Native" />
+  <img src="src/laravel.png" alt="Laravel" />
+  <img src="src/Git.png" alt="Git" />
+  <img src="src/Figma.png" alt="Figma" />
+  <img src="src/AndroidStudio.png" alt="Android Studio" />
 </p>
 
 ---
