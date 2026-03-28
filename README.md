@@ -16,11 +16,17 @@
 
 ### 💻 Tech Stack & Tools Utama
 
-Kami menggunakan teknologi terkini untuk memastikan setiap proyek berjalan dengan optimal:
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Native" />
+  <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+</p>
 
-- **Frontend & Styling:** React, Vite, Tailwind CSS
-- **Creative & Design:** Adobe Photoshop, Adobe Illustrator, Figma
-- **Workspace:** Linux, Neovim
+---
 
 ### 🔭 Apa yang Sedang Kami Kerjakan?
 
