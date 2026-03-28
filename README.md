@@ -40,7 +40,7 @@
 Punya ide proyek, butuh desain logo profesional, atau ingin mendigitalkan bisnis Anda? Jangan ragu untuk menyapa kami:
 
 - 📧 **Email:** spectrum.byte01@gmail.com 
-- 🌐 **Website:** [https//spectrumbyte.web.id/](#)
+- 🌐 **Website:** [https://spectrumbyte.web.id/](https://spectrumbyte.web.id/)
 - 📍 **Base:** Kota Batu, Jawa Timur, Indonesia
 
 ---
