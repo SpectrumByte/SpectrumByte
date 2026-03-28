@@ -27,6 +27,7 @@
   <img src="src/Figma.png" alt="Figma" height="50" style="margin: 10px;" />
   <img src="src/AndroidStudio.png" alt="Android Studio" height="50" style="margin: 10px;" />
 </p>
+
 ---
 
 ### 🔭 Apa yang Sedang Kami Kerjakan?
