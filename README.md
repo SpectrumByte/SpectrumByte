@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there, we are SpectrumByte! 👋</h1>
 
-<!--
-**SpectrumByte/SpectrumByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Crafting Modern, Clean, and High-Performance Digital Experiences</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Kami adalah digital agency yang berfokus pada <b>Website Development</b> dan <b>Graphic Design</b>. Kami memadukan estetika desain yang minimalis dan bersih dengan teknologi web modern untuk menciptakan solusi digital yang tidak hanya terlihat premium, tetapi juga berkinerja tinggi.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Layanan Kami
+
+- **Custom Web Development:** Membangun website tingkat lanjut yang cepat, responsif, dan fungsional.
+- **UI/UX & Graphic Design:** Menciptakan antarmuka yang intuitif dan identitas visual yang memukau untuk brand Anda.
+- **E-Commerce Solutions:** Mengembangkan platform toko online modern dengan *user experience* yang mulus.
+
+### 💻 Tech Stack & Tools Utama
+
+Kami menggunakan teknologi terkini untuk memastikan setiap proyek berjalan dengan optimal:
+
+- **Frontend & Styling:** React, Vite, Tailwind CSS
+- **Creative & Design:** Adobe Photoshop, Adobe Illustrator, Figma
+- **Workspace:** Linux, Neovim
+
+### 🔭 Apa yang Sedang Kami Kerjakan?
+
+- 🌱 Saat ini sedang berinovasi dengan pengembangan **SpectrumByte v2** untuk portofolio agensi kami.
+- 🔨 Merancang berbagai *landing page* eksklusif, termasuk platform *e-commerce* bernuansa modern minimalis.
+
+### 📫 Mari Berkolaborasi!
+
+Punya ide proyek, butuh desain logo profesional, atau ingin mendigitalkan bisnis Anda? Jangan ragu untuk menyapa kami:
+
+- 📧 **Email:** hello@spectrumbyte.com *(ubah dengan email asli)*
+- 🌐 **Website:** [spectrumbyte.com](#) *(ubah dengan tautan asli)*
+- 📍 **Base:** Kota Batu, Jawa Timur, Indonesia
+
+---
+<p align="center"><i>"Turning complex problems into elegant, minimalist digital solutions."</i></p>
