@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Layanan Kami
+<h3 align="center">### 🚀 Layanan Kami</h3>
 
 - **Custom Web Development:** Membangun website tingkat lanjut yang cepat, responsif, dan fungsional.
 - **UI/UX & Graphic Design:** Menciptakan antarmuka yang intuitif dan identitas visual yang memukau untuk brand Anda.
@@ -30,12 +30,12 @@
 
 ---
 
-### 🔭 Apa yang Sedang Kami Kerjakan?
+<h3 align="center">### 🔭 Apa yang Sedang Kami Kerjakan?</h3>
 
 - 🌱 Saat ini sedang berinovasi dengan pengembangan **SpectrumByte v2** untuk portofolio agensi kami.
 - 🔨 Merancang berbagai *landing page* eksklusif, termasuk platform *e-commerce* bernuansa modern minimalis.
 
-### 📫 Mari Berkolaborasi!
+<h3 align="center">### 📫 Mari Berkolaborasi!</h3>
 
 Punya ide proyek, butuh desain logo profesional, atau ingin mendigitalkan bisnis Anda? Jangan ragu untuk menyapa kami:
 
