@@ -3,7 +3,7 @@
 <h3 align="center">Crafting Modern, Clean, and High-Performance Digital Experiences</h3>
 
 <p align="center">
-  Kami adalah digital agency yang berfokus pada <b>Website Development</b> dan <b>Graphic Design</b>. Kami memadukan estetika desain yang minimalis dan bersih dengan teknologi web modern untuk menciptakan solusi digital yang tidak hanya terlihat premium, tetapi juga berkinerja tinggi.
+  Kami adalah digital agency yang berfokus pada Website Development dan Graphic Design. Kami memadukan estetika desain yang minimalis dan bersih dengan teknologi web modern untuk menciptakan solusi digital yang tidak hanya terlihat premium, tetapi juga berkinerja tinggi.
 </p>
 
 ---
